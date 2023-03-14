@@ -21,7 +21,7 @@ async function scrapeEverything() {
 
     //* Guardo la info inicial que pude rescatar en el archivo "data.json". Si es que no existe, se crea
     //* automaticamente 😺
-    fs.writeFileSync('data.json', JSON.stringify(eventUrls, null, 2));
+    fs.writeFileSync('data/data.json', JSON.stringify(eventUrls, null, 2));
     
     console.info('Done saving data to file!');
     console.log('\nScraping extra data from events...');
@@ -38,7 +38,7 @@ async function scrapeEverything() {
     console.log('\nSaving data to file...\n');
 
     //* Guardo la info final ya actualizada en un archivo llamado "final data.json"
-    fs.writeFileSync('final data.json', JSON.stringify(newData, null, 2));
+    fs.writeFileSync('data/final data.json', JSON.stringify(newData, null, 2));
 
     console.info('Done saving data to file!');
     console.info('\nClosing browser...');
@@ -47,7 +47,8 @@ async function scrapeEverything() {
 
 async function scrapeUrlsFrom(pageHost: string, url: string, browser: Browser): Promise<string[]> {
     //* Elimino todo el contenido del archivo llamado "data.json" para que no se acumule la info
-    fs.writeFileSync('data.json', "");
+    fs.writeFileSync('data/data.json', "");
+    fs.writeFileSync('data/final data.json', "");
 
     console.info('\nScraping urls from: ' + pageHost);
     //* Creo una nueva página en la instancia del Navegador, esta página nos servirá para poder obtener
