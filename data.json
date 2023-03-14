@@ -1,0 +1,3428 @@
+{
+  "puntoticket": [
+    {
+      "nombre": "Museo y Tour Monumental 2023",
+      "fecha": "14 de marzo 2023 - 19 de marzo 2023",
+      "lugar": "ESTADIO MONUMENTAL - MACUL",
+      "img": "https://static.puntoticket.com/images/eventos/byn134_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 850,
+      "url": "https://www.puntoticket.com/evento/museo-tour-monumental-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "We Are One 2023",
+      "fecha": "14 de marzo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ono002_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 2500,
+      "url": "https://www.puntoticket.com/evento/We-Are-One-2023-Teatro-Coliseo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Ciclo Royal Ópera House",
+      "fecha": "14 de marzo 2023 - 02 de agosto 2023",
+      "lugar": "TEATRO ORIENTE - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/fcp128_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 1800,
+      "url": "https://www.puntoticket.com/evento/ciclo-royal-opera-house-teatro-oriente-oct-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Ciclo Imperio",
+      "fecha": "14 de marzo 2023 - 23 de mayo 2023",
+      "lugar": "TEATRO ZOCO - LO BARNECHEA",
+      "img": "https://static.puntoticket.com/images/eventos/zoc005_calugalistado.jpg",
+      "precio": 25000,
+      "asientos": 4350,
+      "url": "https://www.puntoticket.com/evento/ciclo-imperio-teatro-zoco-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Avello",
+      "fecha": "14 de marzo 2023",
+      "lugar": "PALERMO TEATRO BAR - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sae129_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 500,
+      "url": "https://www.puntoticket.com/evento/felipe-avello-cafe-palermo-feb-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Show Pollo Castillo - Gracias Por Venir",
+      "fecha": "15 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng269_calugalistado.jpg",
+      "precio": 85000,
+      "asientos": 4700,
+      "url": "https://www.puntoticket.com/evento/show-pollo-castillo-centro-cultural-san-gines-sala-principal-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alain Johannes",
+      "fecha": "16 de marzo 2023",
+      "lugar": "TROTAMUNDOS - QUILPUÉ",
+      "img": "https://static.puntoticket.com/images/eventos/urr002_calugalistado.jpg",
+      "precio": 160000,
+      "asientos": 1800,
+      "url": "https://www.puntoticket.com/evento/alain-johannes-trotamundos-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Rise Against",
+      "fecha": "16 de marzo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lol096_calugalistado.jpg",
+      "precio": 145000,
+      "asientos": 2850,
+      "url": "https://www.puntoticket.com/evento/rise-against",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Supercool",
+      "fecha": "16 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - AZOTEA - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng277_calugalistado.jpg",
+      "precio": 170000,
+      "asientos": 4700,
+      "url": "https://www.puntoticket.com/evento/supercool-centro-cultural-san-gines-azotea-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Lollapalooza Chile 2023",
+      "fecha": "17 de marzo 2023 - 19 de marzo 2023",
+      "lugar": "PARQUE CERRILLOS",
+      "img": "https://static.puntoticket.com/images/eventos/lol091_calugalistado.jpg",
+      "precio": 190000,
+      "asientos": 900,
+      "url": "https://www.puntoticket.com/lollapalooza",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Saint Patrick Beerfest",
+      "fecha": "17 de marzo 2023 - 19 de marzo 2023",
+      "lugar": "CENTRO DE EVENTOS MÚNICH - PEÑAFLOR",
+      "img": "https://static.puntoticket.com/images/eventos/fex002v2_calugalistado.jpg",
+      "precio": 55000,
+      "asientos": 4600,
+      "url": "https://www.puntoticket.com/evento/saint-patrick-beerfest-centro-de-eventos-munich-malloco-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Lluvia Constante - Keith Huff",
+      "fecha": "17 de marzo 2023 - 23 de abril 2023",
+      "lugar": "TEATRO ZOCO - LO BARNECHEA",
+      "img": "https://static.puntoticket.com/images/eventos/zoc003v2_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 2500,
+      "url": "https://www.puntoticket.com/evento/lluvia-constante-teatro-zoco-nov-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Open Mic Fest",
+      "fecha": "17 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng280_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 1000,
+      "url": "https://www.puntoticket.com/evento/open-mic-fest-centro-cultural-san-gines-sala-principal-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Vip",
+      "fecha": "17 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - AZOTEA - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng267v3_calugalistado.jpg",
+      "precio": 50000,
+      "asientos": 750,
+      "url": "https://www.puntoticket.com/evento/vip-centro-cultural-san-gines-azotea-feb-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Sirus Hood & Alex Font",
+      "fecha": "17 de marzo 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/met173_calugalistado.jpg",
+      "precio": 130000,
+      "asientos": 3300,
+      "url": "https://www.puntoticket.com/evento/sirus-hood-y-alex-font-sala-metronomo-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Fatima Hajji",
+      "fecha": "17 de marzo 2023",
+      "lugar": "ENJOY SANTIAGO - LOS ANDES",
+      "img": "https://static.puntoticket.com/images/eventos/sou004_calugalistado.jpg",
+      "precio": 80000,
+      "asientos": 3800,
+      "url": "https://www.puntoticket.com/evento/fatima-hajji-enjoy-santiago-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Salvemos Fondo De Bikini",
+      "fecha": "18 de marzo 2023 - 26 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng274_calugalistado.jpg",
+      "precio": 195000,
+      "asientos": 4800,
+      "url": "https://www.puntoticket.com/evento/salvemos-fondo-de-bikini-sala-principal-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Cinco Mujeres, un Hombre y un Muerto",
+      "fecha": "18 de marzo 2023 - 25 de marzo 2023",
+      "lugar": "TEATRO SAN GINÉS - SALA 2 - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng262_calugalistado.jpg",
+      "precio": 50000,
+      "asientos": 4550,
+      "url": "https://www.puntoticket.com/evento/cinco-mujeres-un-hombre-y-un-muerto-teatro-san-gines-ene-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pedro Ruminot - Un Resumen de todo este Tiempo",
+      "fecha": "18 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng237_calugalistado.jpg",
+      "precio": 185000,
+      "asientos": 3100,
+      "url": "https://www.puntoticket.com/evento/pedro-ruminot-teatro-san-gines-nov-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Festival de Hip Hop Enfermos del Rap",
+      "fecha": "19 de marzo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jaf003v2_calugalistado.jpg",
+      "precio": 15000,
+      "asientos": 1950,
+      "url": "https://www.puntoticket.com/evento/festival-de-hip-hop-enfermos-del-rap-teatro-caupolican-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Luli Pampim",
+      "fecha": "19 de marzo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/emk108_calugalistado.jpg",
+      "precio": 160000,
+      "asientos": 1800,
+      "url": "https://www.puntoticket.com/evento/luli-pampim-movistar-arena-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Cigarettes After Sex",
+      "fecha": "20 de marzo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lol092_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 4300,
+      "url": "https://www.puntoticket.com/evento/cigarettes-after-sex",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Tove Lo",
+      "fecha": "20 de marzo 2023",
+      "lugar": "TEATRO TELETÓN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lol093_calugalistado.jpg",
+      "precio": 15000,
+      "asientos": 1750,
+      "url": "https://www.puntoticket.com/evento/tove-lo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Devendra Banhart",
+      "fecha": "21 de marzo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/fna265_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 950,
+      "url": "https://www.puntoticket.com/evento/devendra-banhart-teatro-coliseo-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Melanie Martínez",
+      "fecha": "21 de marzo 2023",
+      "lugar": "TEATRO TELETÓN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lol094_calugalistado.jpg",
+      "precio": 155000,
+      "asientos": 2650,
+      "url": "https://www.puntoticket.com/evento/melanie-martinez",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jane's Addiction",
+      "fecha": "21 de marzo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lol098_calugalistado.jpg",
+      "precio": 75000,
+      "asientos": 100,
+      "url": "https://www.puntoticket.com/evento/janes-addiction",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Romeo Santos - Fórmula Volumen 3 - La Gira",
+      "fecha": "21 de marzo 2023 - 30 de marzo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz205_calugalistado.jpg",
+      "precio": 85000,
+      "asientos": 4350,
+      "url": "https://www.puntoticket.com/romeo-santos",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Wallows",
+      "fecha": "21 de marzo 2023",
+      "lugar": "MATUCANA 100 - EXPLANADA - ESTACIÓN CENTRAL",
+      "img": "https://static.puntoticket.com/images/eventos/lol097_calugalistado.jpg",
+      "precio": 130000,
+      "asientos": 2650,
+      "url": "https://www.puntoticket.com/evento/wallows",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Ludovico Einaudi",
+      "fecha": "22 de marzo 2023 - 23 de marzo 2023",
+      "lugar": "TEATRO MUNICIPAL DE SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lot134_calugalistado.jpg",
+      "precio": 85000,
+      "asientos": 1900,
+      "url": "https://www.puntoticket.com/ludovico-einaudi",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Subete a Mi Moto - Reencuentro Menudo",
+      "fecha": "22 de marzo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jts039_calugalistado.jpg",
+      "precio": 100000,
+      "asientos": 3200,
+      "url": "https://www.puntoticket.com/evento/subete-a-mi-moto-teatro-caupolican-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Santiago Wild 2023 - Noche De Lanzamiento",
+      "fecha": "23 de marzo 2023",
+      "lugar": "TEATRO DE CAMARA DE CEINA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lad003_calugalistado.jpg",
+      "precio": 155000,
+      "asientos": 1250,
+      "url": "https://www.puntoticket.com/evento/santiago-wild-2023-teatro-ceina-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "KASE.O JAZZ MAGNETISM",
+      "fecha": "23 de marzo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/tsr012_calugalistado.jpg",
+      "precio": 105000,
+      "asientos": 4150,
+      "url": "https://www.puntoticket.com/evento/kase-o-jazz-magnetism-teatro-caupolican-marzo-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Panico",
+      "fecha": "23 de marzo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lol095v2_calugalistado.jpg",
+      "precio": 135000,
+      "asientos": 1250,
+      "url": "https://www.puntoticket.com/evento/panico",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Sonata Arctica",
+      "fecha": "24 de marzo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec037v6_calugalistado.jpg",
+      "precio": 180000,
+      "asientos": 100,
+      "url": "https://www.puntoticket.com/sonata-arctica",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Santaferia - Entero Piante",
+      "fecha": "24 de marzo 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/met175_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 450,
+      "url": "https://www.puntoticket.com/evento/santaferia-entero-piante-sala-metronomo-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Sergio Freire",
+      "fecha": "24 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng190_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 4650,
+      "url": "https://www.puntoticket.com/evento/sergio-freire-teatro-san-gines-may-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Kamikaze",
+      "fecha": "24 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - CLUB - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng209v2_calugalistado.jpg",
+      "precio": 60000,
+      "asientos": 3000,
+      "url": "https://www.puntoticket.com/evento/kamikaze-centro-centro-cultural-san-gines-club-jul-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "El Gocho de Oro - Gira de Stand Up de Nanutria",
+      "fecha": "24 de marzo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/sno007_calugalistado.jpg",
+      "precio": 180000,
+      "asientos": 1600,
+      "url": "https://www.puntoticket.com/evento/el-gocho-de-oro-teatro-coliseo-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Carolina La Eterna Enmascarada",
+      "fecha": "24 de marzo 2023 - 01 de abril 2023",
+      "lugar": "TEATRO SAN GINÉS - SALA 1 - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng278_calugalistado.jpg",
+      "precio": 150000,
+      "asientos": 1700,
+      "url": "https://www.puntoticket.com/evento/carolina-la-eterna-enmascarada-teatro-san-gines-sala-1-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "SANTIAGO DUBWISE: ROOTZ HIFI meets VIBRONICS",
+      "fecha": "24 de marzo 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/met165_calugalistado.jpg",
+      "precio": 150000,
+      "asientos": 4300,
+      "url": "https://www.puntoticket.com/evento/santiago-dubwise-rootz-hifi-meets-vibronics-sala-metronomo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "La Gran Despedida Del Goleador Esteban Paredes - EL ELEGIDO",
+      "fecha": "25 de marzo 2023",
+      "lugar": "ESTADIO MONUMENTAL - MACUL",
+      "img": "https://static.puntoticket.com/images/eventos/avs001_calugalistado.jpg",
+      "precio": 50000,
+      "asientos": 1600,
+      "url": "https://www.puntoticket.com/evento/la-gran-despedida-del-goleador-esteban-paredes-estadio-monumental-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Título Latinoamericano - Consejo Mundial De Boxeo - Junior La Joya Cruzat vs Ricardo Blandon",
+      "fecha": "25 de marzo 2023",
+      "lugar": "ARENA PUERTO MONTT",
+      "img": "https://static.puntoticket.com/images/eventos/gsn001_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 250,
+      "url": "https://www.puntoticket.com/evento/titulo-latinoamericano-consejo-mundial-de-boxeo-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Los Bunkers - Ven Aquí",
+      "fecha": "25 de marzo 2023",
+      "lugar": "ESTADIO ESTER ROA - CONCEPCIÓN",
+      "img": "https://static.puntoticket.com/images/eventos/wal173_calugalistado.jpg",
+      "precio": 65000,
+      "asientos": 2150,
+      "url": "https://www.puntoticket.com/los-bunkers-conce",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Paul Vázquez - El Flaco - Por Humor a la Vida",
+      "fecha": "25 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng271_calugalistado.jpg",
+      "precio": 185000,
+      "asientos": 3000,
+      "url": "https://www.puntoticket.com/evento/paul-vazquez-el-flaco-por-humor-a-la-vida-sala-principal-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Los Bunkers - Ven Aquí",
+      "fecha": "26 de marzo 2023",
+      "lugar": "QUINTA VERGARA - VIÑA DEL MAR",
+      "img": "https://static.puntoticket.com/images/eventos/wal183_calugalistado.jpg",
+      "precio": 55000,
+      "asientos": 1400,
+      "url": "https://www.puntoticket.com/los-bunkers-viña-del-mar",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Experiencia Moon",
+      "fecha": "26 de marzo 2023 - 28 de marzo 2023",
+      "lugar": "HOTEL SHERATON SANTIAGO - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/bur001_calugalistado.jpg",
+      "precio": 180000,
+      "asientos": 1950,
+      "url": "https://www.puntoticket.com/experienciamoon",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Chile vs Paraguay",
+      "fecha": "27 de marzo 2023",
+      "lugar": "ESTADIO MONUMENTAL - MACUL",
+      "img": "https://static.puntoticket.com/images/eventos/anf004_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 1400,
+      "url": "https://www.puntoticket.com/evento/chile-vs-paraguay-estadio-monumental-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Noche De Felinos - Santiago Wild 2023",
+      "fecha": "28 de marzo 2023",
+      "lugar": "CENTRO CULTURAL LAS CONDES",
+      "img": "https://static.puntoticket.com/images/eventos/lad002_calugalistado.jpg",
+      "precio": 155000,
+      "asientos": 4300,
+      "url": "https://www.puntoticket.com/evento/noche-de-felinos-santiago-wild-2023-centro-cultural-las-condes-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Soen Acústico",
+      "fecha": "28 de marzo 2023",
+      "lugar": "SALA RBX - AVDA. VICUÑA MACKENNA #1220 - ÑUÑOA",
+      "img": "https://static.puntoticket.com/images/eventos/rec068_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 2300,
+      "url": "https://www.puntoticket.com/evento/soen-acustico-sala-rbx-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "La Magia de Sandro",
+      "fecha": "29 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - AZOTEA - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng279_calugalistado.jpg",
+      "precio": 85000,
+      "asientos": 200,
+      "url": "https://www.puntoticket.com/evento/la-magia-de-sandro-centro-cultural-san-gines-azotea-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Abono Santiago Wild 2023",
+      "fecha": "30 de marzo 2023",
+      "lugar": "- - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lad005_calugalistado.jpg",
+      "precio": 70000,
+      "asientos": 1400,
+      "url": "https://www.puntoticket.com/evento/abono-santiago-wild-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Ceremonia Oficial - Santiago Wild 2023",
+      "fecha": "30 de marzo 2023",
+      "lugar": "TEATRO ORIENTE - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/lad001_calugalistado.jpg",
+      "precio": 10000,
+      "asientos": 3500,
+      "url": "https://www.puntoticket.com/evento/premiacion-santiago-wild-2023-teatro-oriente-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Bombo Fica - El Show debe continuar",
+      "fecha": "30 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng260_calugalistado.jpg",
+      "precio": 190000,
+      "asientos": 4700,
+      "url": "https://www.puntoticket.com/evento/bombo-fica-centro-cultural-san-gines-sala-principal-ene-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Paul Van Dyk",
+      "fecha": "30 de marzo 2023",
+      "lugar": "ENJOY SANTIAGO - LOS ANDES",
+      "img": "https://static.puntoticket.com/images/eventos/sou003_calugalistado.jpg",
+      "precio": 180000,
+      "asientos": 1900,
+      "url": "https://www.puntoticket.com/evento/paul-van-dyk-enjoy-santiago-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Día De Campo",
+      "fecha": "31 de marzo 2023",
+      "lugar": "FUNDO EL COPIHUE - FRUTILLAR",
+      "img": "https://static.puntoticket.com/images/eventos/dpm003_calugalistado.jpg",
+      "precio": 175000,
+      "asientos": 750,
+      "url": "https://www.puntoticket.com/evento/dia-de-campo-fundo-el-copihue-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "La Feria Huertera",
+      "fecha": "31 de marzo 2023 - 02 de abril 2023",
+      "lugar": "VIVERO LAHUAN - CALERA DE TANGO",
+      "img": "https://static.puntoticket.com/images/eventos/lfh001v2_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 3050,
+      "url": "https://www.puntoticket.com/evento/la-feria-huertera-vivero-lahuan-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Quilapayún Chile - Francia",
+      "fecha": "31 de marzo 2023",
+      "lugar": "TEATRO ORIENTE - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/emk111_calugalistado.jpg",
+      "precio": 120000,
+      "asientos": 2800,
+      "url": "https://www.puntoticket.com/evento/quilapayun-chile-francia-teatro-oriente-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "CL.PROG",
+      "fecha": "31 de marzo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec063_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 2050,
+      "url": "https://www.puntoticket.com/cl-prog",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "R3HAB en Bosque Sónico",
+      "fecha": "31 de marzo 2023",
+      "lugar": "ESPACIO RIESCO - HUECHURABA",
+      "img": "https://static.puntoticket.com/images/eventos/glo108_calugalistado.jpg",
+      "precio": 195000,
+      "asientos": 4650,
+      "url": "https://www.puntoticket.com/r3hab-bosque-sonico",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Operada de los Nervios",
+      "fecha": "31 de marzo 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng276_calugalistado.jpg",
+      "precio": 115000,
+      "asientos": 3050,
+      "url": "https://www.puntoticket.com/evento/operada-de-los-nervios-centro-cultural-san-gines-sala-principal-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Bubaseta",
+      "fecha": "31 de marzo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/sae125_calugalistado.jpg",
+      "precio": 115000,
+      "asientos": 3800,
+      "url": "https://www.puntoticket.com/evento/bubaseta-teatro-coliseo-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Valle de la Luna",
+      "fecha": "14 de marzo 2023 - 30 de junio 2023",
+      "lugar": "VALLE DE LA LUNA",
+      "img": "https://compras.puntoticket.com/tickets/img_web/25/36/62/s_cover.jpg",
+      "precio": 145000,
+      "asientos": 2300,
+      "url": "https://compras.puntoticket.com/tickets/valle-de-la-luna",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Seminario de fútbol \"Desarrollo integral de los procesos - Formativos en el fútbol: Un enfoque holístico e innovador",
+      "fecha": "01 de abril 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/acc001_calugalistado.jpg",
+      "precio": 100000,
+      "asientos": 2350,
+      "url": "https://www.puntoticket.com/evento/seminario-del-futbol-teatro-san-gines-sala-principal-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Santiago Wild 2023",
+      "fecha": "01 de abril 2023",
+      "lugar": "CORPORACIÓN CULTURAL DE ÑUÑOA",
+      "img": "https://static.puntoticket.com/images/eventos/lad004_calugalistado.jpg",
+      "precio": 185000,
+      "asientos": 850,
+      "url": "https://www.puntoticket.com/evento/santiago-wild-2023-corporacion-cultural-de-nunoa-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Attack On Titan",
+      "fecha": "01 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div125_calugalistado.jpg",
+      "precio": 80000,
+      "asientos": 3800,
+      "url": "https://www.puntoticket.com/evento/attack-on-titan-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Los Madrigal y su encanto",
+      "fecha": "01 de abril 2023 - 15 de abril 2023",
+      "lugar": "TEATRO SAN GINÉS - SALA 1 - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng233_calugalistado.jpg",
+      "precio": 5000,
+      "asientos": 1050,
+      "url": "https://www.puntoticket.com/evento/los-madrigal-y-su-encanto-teatro-san-gines-sala-1-oct-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Power Up",
+      "fecha": "01 de abril 2023",
+      "lugar": "AULA MAGNA - CEINA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/emk109_calugalistado.jpg",
+      "precio": 25000,
+      "asientos": 3300,
+      "url": "https://www.puntoticket.com/evento/power-up-aula-magna-ceina-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Lola Indigo",
+      "fecha": "01 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/wal180_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 2350,
+      "url": "https://www.puntoticket.com/lola-indigo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Wu-Tang Clan",
+      "fecha": "01 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/pls008_calugalistado.jpg",
+      "precio": 190000,
+      "asientos": 4950,
+      "url": "https://www.puntoticket.com/wu-tang-clan",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Hebert Vargas",
+      "fecha": "01 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jts038_calugalistado.jpg",
+      "precio": 130000,
+      "asientos": 950,
+      "url": "https://www.puntoticket.com/hebert-vargas",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Buena Vista Social Club \"El Legado\"",
+      "fecha": "02 de abril 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - SALA PRINCIPAL - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng273_calugalistado.jpg",
+      "precio": 195000,
+      "asientos": 1550,
+      "url": "https://www.puntoticket.com/evento/buena-vista-social-club-el-legado-club-sala-principal-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Power Up - Orchestra Regresa",
+      "fecha": "02 de abril 2023",
+      "lugar": "TEATRO UNIVERSIDAD DE CONCEPCIÓN",
+      "img": "https://static.puntoticket.com/images/eventos/emk110_calugalistado.jpg",
+      "precio": 120000,
+      "asientos": 1850,
+      "url": "https://www.puntoticket.com/evento/power-up-orchestra-regresa-teatro-universidad-de-concepcion-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "The Ultimate Elvis Tribute Artist Experience - The Ultimate Elvis Tribute Artist Experience - Protagonista \"Shawn Klush\"",
+      "fecha": "02 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ahp001_calugalistado.jpg",
+      "precio": 135000,
+      "asientos": 4100,
+      "url": "https://www.puntoticket.com/evento/the-ultimate-elvis-tribute-artist-experience-teatro-coliseo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Santiago Motorizado en Quilpué",
+      "fecha": "02 de abril 2023",
+      "lugar": "TROTAMUNDOS - QUILPUÉ",
+      "img": "https://static.puntoticket.com/images/eventos/fna271_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 4550,
+      "url": "https://www.puntoticket.com/evento/santiago-motorizado-en-quilpue-trotamundos-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Maria Becerra",
+      "fecha": "02 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/kvn004_calugalistado.jpg",
+      "precio": 70000,
+      "asientos": 1550,
+      "url": "https://www.puntoticket.com/maria-becerra",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Ciclo Naciones",
+      "fecha": "04 de abril 2023 - 25 de julio 2023",
+      "lugar": "TEATRO ZOCO - LO BARNECHEA",
+      "img": "https://static.puntoticket.com/images/eventos/zoc006_calugalistado.jpg",
+      "precio": 195000,
+      "asientos": 200,
+      "url": "https://www.puntoticket.com/evento/ciclo-naciones-teatro-zoco-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Maelo Ruiz",
+      "fecha": "05 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ndo001_calugalistado.jpg",
+      "precio": 165000,
+      "asientos": 1300,
+      "url": "https://www.puntoticket.com/evento/maelo-ruiz-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Peter Pan",
+      "fecha": "06 de abril 2023 - 08 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rcs025_calugalistado.jpg",
+      "precio": 40000,
+      "asientos": 2850,
+      "url": "https://www.puntoticket.com/peterpan",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alyssa Edwards",
+      "fecha": "07 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/cts027_calugalistado.jpg",
+      "precio": 110000,
+      "asientos": 2300,
+      "url": "https://www.puntoticket.com/evento/alyssa-edwards-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Corona Sunsets Festival World Tour 2023",
+      "fecha": "08 de abril 2023",
+      "lugar": "PLAYA PUNTA PIEDRA - VIÑA DEL MAR",
+      "img": "https://static.puntoticket.com/images/eventos/sud003v4_calugalistado.jpg",
+      "precio": 10000,
+      "asientos": 950,
+      "url": "https://www.puntoticket.com/CoronaSunsets",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Quilapayún Chile - Francia",
+      "fecha": "08 de abril 2023",
+      "lugar": "TEATRO UNIVERSIDAD DE CONCEPCIÓN",
+      "img": "https://static.puntoticket.com/images/eventos/emk113_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 4050,
+      "url": "https://www.puntoticket.com/evento/quilapayun-teatro-universidad-de-concepcion-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Zeballos",
+      "fecha": "09 de abril 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/tom011_calugalistado.jpg",
+      "precio": 50000,
+      "asientos": 3250,
+      "url": "https://www.puntoticket.com/evento/zeballos-sala-metronomo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "ZAZ",
+      "fecha": "11 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rcs024v2_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 5000,
+      "url": "https://www.puntoticket.com/evento/zaz-teatro-caupolican-dic-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "ACI Fest",
+      "fecha": "13 de abril 2023 - 16 de abril 2023",
+      "lugar": "ESPACIO RIESCO - HUECHURABA",
+      "img": "https://static.puntoticket.com/images/eventos/cdc003_calugalistado.jpg",
+      "precio": 35000,
+      "asientos": 400,
+      "url": "https://www.puntoticket.com/aci-fest",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "GamersCity Santander",
+      "fecha": "14 de abril 2023 - 16 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz214v2_calugalistado.jpg",
+      "precio": 130000,
+      "asientos": 4750,
+      "url": "https://www.puntoticket.com/gamerscity-santander",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Festival de Vallenato",
+      "fecha": "14 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/cla056_calugalistado.jpg",
+      "precio": 10000,
+      "asientos": 1250,
+      "url": "https://www.puntoticket.com/evento/festival-de-vallenato-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Lucho Miranda",
+      "fecha": "14 de abril 2023",
+      "lugar": "CENTRO CULTURAL SAN GINÉS - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/sng208_calugalistado.jpg",
+      "precio": 60000,
+      "asientos": 3200,
+      "url": "https://www.puntoticket.com/evento/lucho-miranda-centro-cultural-san-gines-ago-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "6ejou Live Set All Night",
+      "fecha": "14 de abril 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jgp001_calugalistado.jpg",
+      "precio": 195000,
+      "asientos": 3700,
+      "url": "https://www.puntoticket.com/evento/6ejou-live-set-all-night-sala-metronomo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Canticuénticos",
+      "fecha": "15 de abril 2023",
+      "lugar": "TEATRO AULA MAGNA - USM VALPARAÍSO",
+      "img": "https://static.puntoticket.com/images/eventos/wal182_calugalistado.jpg",
+      "precio": 110000,
+      "asientos": 400,
+      "url": "https://www.puntoticket.com/evento/canticuenticos-teatro-aula-magna-usm-valparaiso-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Claudio Michaux",
+      "fecha": "15 de abril 2023",
+      "lugar": "AULA MAGNA - CEINA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/cee059_calugalistado.jpg",
+      "precio": 185000,
+      "asientos": 350,
+      "url": "https://www.puntoticket.com/evento/claudio-michaux-aula-magna-ceina-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "God of War Sinfónico",
+      "fecha": "15 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/del005_calugalistado.jpg",
+      "precio": 195000,
+      "asientos": 2100,
+      "url": "https://www.puntoticket.com/evento/god-of-war-sinfonico-teatro-coliseo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Ismael Serrano - \"Ismael Serrano / Chile 2023 / Acústico\"",
+      "fecha": "15 de abril 2023",
+      "lugar": "TEATRO AULA MAGNA - USM VALPARAÍSO",
+      "img": "https://static.puntoticket.com/images/eventos/wal181_calugalistado.jpg",
+      "precio": 5000,
+      "asientos": 3300,
+      "url": "https://www.puntoticket.com/ismael-serrano",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Peces raros",
+      "fecha": "15 de abril 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/fna269_calugalistado.jpg",
+      "precio": 145000,
+      "asientos": 900,
+      "url": "https://www.puntoticket.com/evento/peces-raros-sala-metronomo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Viviana Casanova",
+      "fecha": "15 de abril 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/met176_calugalistado.jpg",
+      "precio": 105000,
+      "asientos": 2050,
+      "url": "https://www.puntoticket.com/evento/viviana-casanova-sala-metronomo-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Motorfest Zero300",
+      "fecha": "16 de abril 2023",
+      "lugar": "ESPACIO RIESCO - HUECHURABA",
+      "img": "https://static.puntoticket.com/images/eventos/hig001v3_calugalistado.jpg",
+      "precio": 35000,
+      "asientos": 350,
+      "url": "https://www.puntoticket.com/evento/motorfest-zero300-espacio-riesco-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Twicepink Party",
+      "fecha": "16 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div137_calugalistado.jpg",
+      "precio": 55000,
+      "asientos": 1350,
+      "url": "https://www.puntoticket.com/evento/twicepink-party-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Christina Rosenvinge - y Los Subterráneos",
+      "fecha": "16 de abril 2023",
+      "lugar": "TEATRO DEL LAGO, FRUTILLAR",
+      "img": "https://static.puntoticket.com/images/eventos/fna272_calugalistado.jpg",
+      "precio": 25000,
+      "asientos": 2500,
+      "url": "https://www.puntoticket.com/evento/christina-rosenvinge-y-los-subterraneos-teatro-del-lago-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Beatlemanía en Concierto",
+      "fecha": "16 de abril 2023",
+      "lugar": "TEATRO ORIENTE - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/bel016_calugalistado.jpg",
+      "precio": 180000,
+      "asientos": 4700,
+      "url": "https://www.puntoticket.com/evento/beatlemania-en-concierto-teatro-oriente-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Christina Rosenvinge",
+      "fecha": "18 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/fna267_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 3050,
+      "url": "https://www.puntoticket.com/evento/christina-rosenvinge-teatro-coliseo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Christina Rosenvinge",
+      "fecha": "19 de abril 2023",
+      "lugar": "TROTAMUNDOS - QUILPUÉ",
+      "img": "https://static.puntoticket.com/images/eventos/fna268_calugalistado.jpg",
+      "precio": 180000,
+      "asientos": 350,
+      "url": "https://www.puntoticket.com/evento/christina-rosenvinge-trotamundos-quilpue-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Peppa Pig",
+      "fecha": "20 de abril 2023 - 23 de abril 2023",
+      "lugar": "TEATRO ORIENTE - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/emk112_calugalistado.jpg",
+      "precio": 160000,
+      "asientos": 1200,
+      "url": "https://www.puntoticket.com/evento/peppa-pig-teatro-oriente",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "“EL DIVAN ROJO”",
+      "fecha": "20 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/owb001_calugalistado.jpg",
+      "precio": 10000,
+      "asientos": 1000,
+      "url": "https://www.puntoticket.com/evento/el-divan-rojo-teatro-coliseo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Christina Rosenvinge - y Los Subterráneos",
+      "fecha": "20 de abril 2023",
+      "lugar": "MAGNOLIA - CHILLÁN",
+      "img": "https://static.puntoticket.com/images/eventos/fna270_calugalistado.jpg",
+      "precio": 40000,
+      "asientos": 4700,
+      "url": "https://www.puntoticket.com/evento/christina-rosenvinge-y-los-subterraneos-magnolia-bar-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Benni y Su Show Stand Up Comedy",
+      "fecha": "20 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div136_calugalistado.jpg",
+      "precio": 90000,
+      "asientos": 50,
+      "url": "https://www.puntoticket.com/evento/benni-y-su-show-stand-up-comedy-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Godsmack - South American Tour 2022",
+      "fecha": "21 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec052_calugalistado.jpg",
+      "precio": 5000,
+      "asientos": 2250,
+      "url": "https://www.puntoticket.com/godsmack",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "JOSÉ MADERO Giallo FantastiqueTour II",
+      "fecha": "21 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/seo027_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 4550,
+      "url": "https://www.puntoticket.com/evento/jose-madero-giallo-fantastiquetour-ii-teatro-coliseo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Santa Fe Klan - Todo y nada",
+      "fecha": "21 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz215_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 3550,
+      "url": "https://www.puntoticket.com/santa-fe-klan",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Café Santiago 2023",
+      "fecha": "22 de abril 2023 - 23 de abril 2023",
+      "lugar": "CENTRO PARQUE - LAS CONDES",
+      "img": "https://static.puntoticket.com/images/eventos/cvp002_calugalistado.jpg",
+      "precio": 135000,
+      "asientos": 4700,
+      "url": "https://www.puntoticket.com/cafe-santiago",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Vive Rock",
+      "fecha": "22 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec067_calugalistado.jpg",
+      "precio": 140000,
+      "asientos": 2500,
+      "url": "https://www.puntoticket.com/vive-rock",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "The Urbans School - Marcianeke /Gino mella /El Boss chile /La secta /Tracy Mcgrady",
+      "fecha": "22 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/pnh002_calugalistado.jpg",
+      "precio": 5000,
+      "asientos": 1600,
+      "url": "https://www.puntoticket.com/evento/the-urbans-school-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "La K´Onga",
+      "fecha": "22 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/seo028_calugalistado.jpg",
+      "precio": 90000,
+      "asientos": 1500,
+      "url": "https://www.puntoticket.com/evento/la-k-onga-teatro-coliseo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Glitter Party K-Pop",
+      "fecha": "22 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div134_calugalistado.jpg",
+      "precio": 185000,
+      "asientos": 3350,
+      "url": "https://www.puntoticket.com/evento/glitter-party-k-pop-teatro-caupolican-mar-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "The Metal Fest 2023 - El Regreso",
+      "fecha": "23 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec054_calugalistado.jpg",
+      "precio": 100000,
+      "asientos": 3900,
+      "url": "https://www.puntoticket.com/the-metal-fest-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Stone Temple Pilots",
+      "fecha": "25 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec060_calugalistado.jpg",
+      "precio": 10000,
+      "asientos": 3950,
+      "url": "https://www.puntoticket.com/stone-temple-pilots",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "The Winery Dogs - The Winery Dogs 202III World Tour",
+      "fecha": "25 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/mth004_calugalistado.jpg",
+      "precio": 175000,
+      "asientos": 3750,
+      "url": "https://www.puntoticket.com/the-winery-dogs",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alejandro Sanz - Sanz en Vivo",
+      "fecha": "26 de abril 2023 - 27 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/dgm121v2_calugalistado.jpg",
+      "precio": 115000,
+      "asientos": 3100,
+      "url": "https://www.puntoticket.com/alejandro-sanz",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Apocalyptica - Cell-0 South America Tour",
+      "fecha": "27 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec061_calugalistado.jpg",
+      "precio": 130000,
+      "asientos": 2650,
+      "url": "https://www.puntoticket.com/evento/apocalyptica-teatro-coliseo-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Lamb Of god",
+      "fecha": "27 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/tsr023_calugalistado.jpg",
+      "precio": 160000,
+      "asientos": 2250,
+      "url": "https://www.puntoticket.com/evento/lamb-of-god-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Muerdo",
+      "fecha": "28 de abril 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/cla058_calugalistado.jpg",
+      "precio": 80000,
+      "asientos": 550,
+      "url": "https://www.puntoticket.com/muerdo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "KC & The Sunshine Band",
+      "fecha": "28 de abril 2023 - 29 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div122v2_calugalistado.jpg",
+      "precio": 110000,
+      "asientos": 150,
+      "url": "https://www.puntoticket.com/evento/kc-and-the-sunshine-band-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Reik",
+      "fecha": "28 de abril 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz210_calugalistado.jpg",
+      "precio": 50000,
+      "asientos": 3650,
+      "url": "https://www.puntoticket.com/reik",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Masters Of Rock",
+      "fecha": "30 de abril 2023",
+      "lugar": "ESTADIO SANTA LAURA - UNIVERSIDAD SEK - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec065_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 3500,
+      "url": "https://www.puntoticket.com/masters-of-rock",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Despecho Salsa y Guaro 2023",
+      "fecha": "30 de abril 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/oth005_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 650,
+      "url": "https://www.puntoticket.com/evento/despecho-salsa-y-guaro-2023-teatro-caupolican-abr-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jay Wheeler - EMOCIONES WORLD TOUR",
+      "fecha": "01 de mayo 2023 - 02 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jts042_calugalistado.jpg",
+      "precio": 80000,
+      "asientos": 150,
+      "url": "https://www.puntoticket.com/jaywheeler",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Steel Pulse - En Chile",
+      "fecha": "02 de mayo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/csp008_calugalistado.jpg",
+      "precio": 140000,
+      "asientos": 2550,
+      "url": "https://www.puntoticket.com/evento/steel-pulse-en-chile-teatro-coliseo-may-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Avantasia",
+      "fecha": "02 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec066_calugalistado.jpg",
+      "precio": 35000,
+      "asientos": 4150,
+      "url": "https://www.puntoticket.com/avantasia",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Laura Chimaras - Tour \"Nunca Pierdas la Fe 2023\"",
+      "fecha": "03 de mayo 2023",
+      "lugar": "AULA MAGNA - CEINA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ltc005_calugalistado.jpg",
+      "precio": 65000,
+      "asientos": 2850,
+      "url": "https://www.puntoticket.com/laura-chimaras",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Time Warp",
+      "fecha": "05 de mayo 2023 - 06 de mayo 2023",
+      "lugar": "ESPACIO RIESCO - HUECHURABA",
+      "img": "https://static.puntoticket.com/images/eventos/glo104_calugalistado.jpg",
+      "precio": 80000,
+      "asientos": 1100,
+      "url": "https://www.puntoticket.com/time-warp",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "La Brígida Orquesta - Lanzamiento del Nuevo Disco de La Brigida Orquesta",
+      "fecha": "05 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/mam001_calugalistado.jpg",
+      "precio": 35000,
+      "asientos": 500,
+      "url": "https://www.puntoticket.com/evento/la-brigida-orquesta-teatro-caupolican-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Sol y Lluvia",
+      "fecha": "06 de mayo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/tsr026_calugalistado.jpg",
+      "precio": 160000,
+      "asientos": 4400,
+      "url": "https://www.puntoticket.com/evento/sol-y-lluvia-teatro-coliseo-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Marc Martel",
+      "fecha": "06 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ft0094_calugalistado.jpg",
+      "precio": 185000,
+      "asientos": 4750,
+      "url": "https://www.puntoticket.com/marc-martel",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Gipsy Kings by Andre Reyes",
+      "fecha": "06 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div128_calugalistado.jpg",
+      "precio": 160000,
+      "asientos": 2350,
+      "url": "https://www.puntoticket.com/evento/gipsy-kings-by-andre-reyes-teatro-caupolican-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Manuel Turizo - 2000 Tour",
+      "fecha": "07 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz217_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 2700,
+      "url": "https://www.puntoticket.com/manuel-turizo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "La Femme",
+      "fecha": "11 de mayo 2023",
+      "lugar": "BLONDIE - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/fna266_calugalistado.jpg",
+      "precio": 55000,
+      "asientos": 2450,
+      "url": "https://www.puntoticket.com/evento/la-femme-blondie-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Inti Illimani Histórico / Quilapayún",
+      "fecha": "12 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div130_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 1950,
+      "url": "https://www.puntoticket.com/evento/inti-illimani-historico-quilapayun-teatro-caupolican-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pimpinela",
+      "fecha": "13 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ft0092_calugalistado.jpg",
+      "precio": 105000,
+      "asientos": 4900,
+      "url": "https://www.puntoticket.com/pimpinela",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "NONPALIDECE",
+      "fecha": "13 de mayo 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/met166_calugalistado.jpg",
+      "precio": 65000,
+      "asientos": 550,
+      "url": "https://www.puntoticket.com/evento/nonpalidece-sala-metronomo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pettinellis",
+      "fecha": "13 de mayo 2023",
+      "lugar": "TEATRO CENTENARIO - LA SERENA",
+      "img": "https://static.puntoticket.com/images/eventos/tce010_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 4200,
+      "url": "https://www.puntoticket.com/evento/pettinellis-teatro-centenario-ene-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "CNCO",
+      "fecha": "16 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz218_calugalistado.jpg",
+      "precio": 150000,
+      "asientos": 4400,
+      "url": "https://www.puntoticket.com/cnco",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Dry Cleaning",
+      "fecha": "17 de mayo 2023",
+      "lugar": "CLUB SUBTERRANEO - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/trp015_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 2850,
+      "url": "https://www.puntoticket.com/evento/dry-cleaning-club-subterraneo-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Gloria Trevi",
+      "fecha": "17 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz219_calugalistado.jpg",
+      "precio": 80000,
+      "asientos": 4850,
+      "url": "https://www.puntoticket.com/gloria-trevi",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Kany García",
+      "fecha": "18 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz207_calugalistado.jpg",
+      "precio": 25000,
+      "asientos": 800,
+      "url": "https://www.puntoticket.com/kany-garcia",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pabllo Vittar",
+      "fecha": "18 de mayo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/seo029_calugalistado.jpg",
+      "precio": 10000,
+      "asientos": 900,
+      "url": "https://www.puntoticket.com/evento/evento-pabllo-vittar-teatro-coliseo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Nelson Velásquez",
+      "fecha": "19 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ltc004_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 4050,
+      "url": "https://www.puntoticket.com/nelson-velasquez",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Payaso Plim-Plim - Cantando y Bailando con Plim-Plim",
+      "fecha": "20 de mayo 2023",
+      "lugar": "TEATRO ORIENTE - PROVIDENCIA",
+      "img": "https://static.puntoticket.com/images/eventos/blu002_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 3500,
+      "url": "https://www.puntoticket.com/evento/payaso-plim-plim-cantando-y-bailando-con-plim-plim-teatro-oriente-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Snarky Puppy",
+      "fecha": "20 de mayo 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/trp014_calugalistado.jpg",
+      "precio": 110000,
+      "asientos": 3650,
+      "url": "https://www.puntoticket.com/evento/snarky-puppy-teatro-coliseo-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Elvis The King is Back",
+      "fecha": "21 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div116_calugalistado.jpg",
+      "precio": 10000,
+      "asientos": 3650,
+      "url": "https://www.puntoticket.com/evento/elvis-the-king-is-back-teatro-caupolican-may-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jackson Wang",
+      "fecha": "22 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lot135_calugalistado.jpg",
+      "precio": 170000,
+      "asientos": 1000,
+      "url": "https://www.puntoticket.com/jackson-wang",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Kraftwerk",
+      "fecha": "25 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/dgm123_calugalistado.jpg",
+      "precio": 85000,
+      "asientos": 4700,
+      "url": "https://www.puntoticket.com/kraftwerk",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Divididos",
+      "fecha": "26 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/wal178_calugalistado.jpg",
+      "precio": 85000,
+      "asientos": 1250,
+      "url": "https://www.puntoticket.com/divididos",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pink Floyd Connection",
+      "fecha": "26 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div113_calugalistado.jpg",
+      "precio": 5000,
+      "asientos": 850,
+      "url": "https://www.puntoticket.com/evento/pink-floyd-connection-teatro-caupolican-nov-2022",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Gran Ballet Internacional El Lago de los Cisnes",
+      "fecha": "27 de mayo 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div131_calugalistado.jpg",
+      "precio": 140000,
+      "asientos": 4300,
+      "url": "https://www.puntoticket.com/evento/gran-ballet-internacional-el-lago-de-los-cisnes-teatro-caupolican-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "JD Pantoja & Kim Loaiza - Bye Bye Tour",
+      "fecha": "28 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lfs003_calugalistado.jpg",
+      "precio": 85000,
+      "asientos": 2900,
+      "url": "https://www.puntoticket.com/evento/jd-pantoja-kim-loaiza-movistar-arena-may-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "The Mars Volta",
+      "fecha": "31 de mayo 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/dgm124_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 2100,
+      "url": "https://www.puntoticket.com/the-mars-volta",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "The Orchestra - Starring Former Members Of Electric Light Orchestra",
+      "fecha": "02 de junio 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div135_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 3050,
+      "url": "https://www.puntoticket.com/evento/the-orchestra-teatro-caupolican-jun-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Noche RadioActiva",
+      "fecha": "03 de junio 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/wal177v3_calugalistado.jpg",
+      "precio": 175000,
+      "asientos": 2700,
+      "url": "https://www.puntoticket.com/noche-radioactiva-oldschool23",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "2023 Moonbin & Sanha - Fan Con Tour Diffusion in Santiago de Chile",
+      "fecha": "03 de junio 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ncs003_calugalistado.jpg",
+      "precio": 145000,
+      "asientos": 3950,
+      "url": "https://www.puntoticket.com/evento/moonbin-y-sanha-fan-con-tour-diffusion-in-santiago-de-chile-teatro-coliseo-jun-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Hombres G",
+      "fecha": "13 de junio 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/swg145_calugalistado.jpg",
+      "precio": 90000,
+      "asientos": 1100,
+      "url": "https://www.puntoticket.com/evento/hombres-g-teatro-caupolican-jun-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Rochy RD",
+      "fecha": "15 de junio 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/wal184_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 900,
+      "url": "https://www.puntoticket.com/rochy-rd",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jessi Uribe - Show + Fiesta",
+      "fecha": "16 de junio 2023 - 17 de junio 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jts040_calugalistado.jpg",
+      "precio": 30000,
+      "asientos": 1450,
+      "url": "https://www.puntoticket.com/jessiuribe",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alberto Plaza",
+      "fecha": "17 de junio 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ft0093_calugalistado.jpg",
+      "precio": 140000,
+      "asientos": 1100,
+      "url": "https://www.puntoticket.com/alberto-plaza",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Cris Mj - Welcome To My Concert",
+      "fecha": "23 de junio 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jts043_calugalistado.jpg",
+      "precio": 25000,
+      "asientos": 3750,
+      "url": "https://www.puntoticket.com/cris-mj-movistar-arena",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Orquesta sinfónica The Legend of Zelda",
+      "fecha": "24 de junio 2023",
+      "lugar": "SURACTIVO - CONCEPCIÓN",
+      "img": "https://static.puntoticket.com/images/eventos/chl016_calugalistado.jpg",
+      "precio": 65000,
+      "asientos": 3800,
+      "url": "https://www.puntoticket.com/orquestasinfonicathelegendofzelda",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Ñengo Flow - RG4LIFE TOUR",
+      "fecha": "24 de junio 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jts041_calugalistado.jpg",
+      "precio": 35000,
+      "asientos": 3450,
+      "url": "https://www.puntoticket.com/nengoflow-rg4lifetour",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Festival La LLama - Damas gratis, La delio valdez, Ke Personajes",
+      "fecha": "26 de junio 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/tom010v2_calugalistado.jpg",
+      "precio": 175000,
+      "asientos": 2050,
+      "url": "https://www.puntoticket.com/evento/festival-la-llama-movistar-arena-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Mario Aguilar - SER LOCA NO ES FACIL",
+      "fecha": "30 de junio 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/eve011_calugalistado.jpg",
+      "precio": 175000,
+      "asientos": 2900,
+      "url": "https://www.puntoticket.com/evento/mario-aguilar-ser-loca-no-es-facil-teatro-coliseo-jun-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Engelbert Humperdink",
+      "fecha": "30 de junio 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div129_calugalistado.jpg",
+      "precio": 105000,
+      "asientos": 2100,
+      "url": "https://www.puntoticket.com/evento/engelbert-humperdink-teatro-caupolican-jun-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Mujer Valiente",
+      "fecha": "01 de julio 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/hej002_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 2300,
+      "url": "https://www.puntoticket.com/mujer-valiente",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Harry Potter Sinfónico",
+      "fecha": "01 de julio 2023 - 02 de julio 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/del004_calugalistado.jpg",
+      "precio": 115000,
+      "asientos": 1950,
+      "url": "https://www.puntoticket.com/evento/harry-potter-sinfonico-teatro-coliseo-jul-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jose Rafael Guzman - Candela Tour 2023",
+      "fecha": "09 de julio 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/lse007_calugalistado.jpg",
+      "precio": 65000,
+      "asientos": 4500,
+      "url": "https://www.puntoticket.com/evento/jose-rafael-guzman-teatro-caupolican-jul-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Zion y Lennox",
+      "fecha": "15 de julio 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/jts044_calugalistado.jpg",
+      "precio": 145000,
+      "asientos": 2450,
+      "url": "https://www.puntoticket.com/zion-y-lenox-movistar-arena",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Laureamor y Emidilio",
+      "fecha": "20 de julio 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/eve010_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 1500,
+      "url": "https://www.puntoticket.com/evento/laureamor-y-emidilio-teatro-coliseo-jul-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "No te va gustar - Banda invitada: Guasones",
+      "fecha": "28 de julio 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/tom009_calugalistado.jpg",
+      "precio": 160000,
+      "asientos": 1550,
+      "url": "https://www.puntoticket.com/evento/no-te-va-gustar-teatro-caupolican",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Fabrizio Copano",
+      "fecha": "04 de agosto 2023 - 05 de agosto 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div133v2_calugalistado.jpg",
+      "precio": 130000,
+      "asientos": 900,
+      "url": "https://www.puntoticket.com/evento/fabrizio-copano-teatro-caupolican-ago-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Los Jaivas - 60 Años",
+      "fecha": "15 de agosto 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec062_calugalistado.jpg",
+      "precio": 165000,
+      "asientos": 1500,
+      "url": "https://www.puntoticket.com/los-jaivas",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Steve Hackett + Genetics - Seconds Out South American Tour 2023",
+      "fecha": "16 de agosto 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/mth005_calugalistado.jpg",
+      "precio": 5000,
+      "asientos": 1100,
+      "url": "https://www.puntoticket.com/evento/steve-hackett-genetics-teatro-coliseo-ago-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Natalia Lafourcade",
+      "fecha": "16 de agosto 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/wal185_calugalistado.jpg",
+      "precio": 150000,
+      "asientos": 750,
+      "url": "https://www.puntoticket.com/natalia-lafourcade",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Lucybell - 30 Años",
+      "fecha": "18 de agosto 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/rec064_calugalistado.jpg",
+      "precio": 150000,
+      "asientos": 250,
+      "url": "https://www.puntoticket.com/lucybell",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Nicki Nicole",
+      "fecha": "24 de agosto 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/biz216v2_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 3050,
+      "url": "https://www.puntoticket.com/nicki-nicole",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Rata Blanca & José Andrea",
+      "fecha": "25 de agosto 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/fil001_calugalistado.jpg",
+      "precio": 170000,
+      "asientos": 700,
+      "url": "https://www.puntoticket.com/evento/rata-blanca-y-jose-andrea-teatro-caupolican-ago-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Franco Simone & Puma Rodriguez 2023",
+      "fecha": "02 de septiembre 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/ft0095_calugalistado.jpg",
+      "precio": 20000,
+      "asientos": 4350,
+      "url": "https://www.puntoticket.com/franco-simone-puma-rodriguez-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Una Pareja Real",
+      "fecha": "29 de septiembre 2023",
+      "lugar": "TEATRO COLISEO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/eve012_calugalistado.jpg",
+      "precio": 95000,
+      "asientos": 150,
+      "url": "https://www.puntoticket.com/evento/una-pareja-real-teatro-coliseo-sep-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jorge Drexler",
+      "fecha": "30 de septiembre 2023",
+      "lugar": "MOVISTAR ARENA - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/cla057_calugalistado.jpg",
+      "precio": 45000,
+      "asientos": 4650,
+      "url": "https://www.puntoticket.com/jorge-drexler",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Dios Salve a la Reina",
+      "fecha": "10 de noviembre 2023 - 12 de noviembre 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/div123_calugalistado.jpg",
+      "precio": 125000,
+      "asientos": 3800,
+      "url": "https://www.puntoticket.com/evento/dios-salve-a-la-reina-teatro-caupolican-jun-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Mucho Muchacho - 25 Aniversario Hecho, es simple",
+      "fecha": "11 de noviembre 2023",
+      "lugar": "SALA METRÓNOMO - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/cvl001_calugalistado.jpg",
+      "precio": 5000,
+      "asientos": 4850,
+      "url": "https://www.puntoticket.com/evento/mucho-muchacho-sala-metronomo-nov-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Perotá Chingó",
+      "fecha": "09 de diciembre 2023",
+      "lugar": "TEATRO CAUPOLICÁN - SANTIAGO",
+      "img": "https://static.puntoticket.com/images/eventos/tsr025_calugalistado.jpg",
+      "precio": 60000,
+      "asientos": 3450,
+      "url": "https://www.puntoticket.com/evento/perota-chingo-teatro-caupolican-dic-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Huachipato - Abono 2023",
+      "fecha": "31 de diciembre 2023",
+      "lugar": "ESTADIO HUACHIPATO - TALCAHUANO",
+      "img": "https://static.puntoticket.com/images/eventos/hua045_calugalistado.jpg",
+      "precio": 15000,
+      "asientos": 2000,
+      "url": "https://www.puntoticket.com/evento/huachipato-abono-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Colo-Colo - Hincha Preferente 2023",
+      "fecha": "31 de diciembre 2023",
+      "lugar": "ESTADIO MONUMENTAL - MACUL",
+      "img": "https://static.puntoticket.com/images/eventos/byn130v2_calugalistado.jpg",
+      "precio": 35000,
+      "asientos": 2700,
+      "url": "https://www.puntoticket.com/evento/hincha-preferente-colo-colo-2023",
+      "descripcion": "No disponible"
+    }
+  ],
+  "ticketplus": [
+    {
+      "nombre": "Florida Bier - Festival / Club Hípico / 06 de Mayo",
+      "fecha": "06 MAY",
+      "lugar": "No disponible",
+      "img": "https://ticketplus-uploads.ticketplus.global/images/thumbs/ccc35ff29720cd12dffc-332941189_917888829539728_8640500313963528156_n.jpg?1678377738",
+      "precio": 15000,
+      "asientos": 3150,
+      "url": "https://ticketplus.cl/events/florida-bier-festival-club-hipico-06-de-mayo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "MYRIAM HERNÁNDEZ TOUR 2023, MI PARAISO",
+      "fecha": "16 MAR",
+      "lugar": "No disponible",
+      "img": "https://ticketplus-uploads.ticketplus.global/images/thumbs/d1aaf465f2fc4626122a-43594aa4992578e48fd0-WhatsApp_Image_2023-01-06_at_10.41.36.png?1675182344",
+      "precio": 5000,
+      "asientos": 2350,
+      "url": "https://ticketplus.cl/events/myriam-hernandez-tour-2023-mi-paraiso",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Forget Pailita Los Ángeles",
+      "fecha": "02 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 15000,
+      "asientos": 2400,
+      "url": "https://ticketplus.cl/events/forget-pailita-los-angeles",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Marisela en Concepción",
+      "fecha": "13 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 170000,
+      "asientos": 1350,
+      "url": "https://ticketplus.cl/events/marisela-en-concepcion",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "FIRE FEST",
+      "fecha": "01 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 75000,
+      "asientos": 4850,
+      "url": "https://ticketplus.cl/events/fire-fest",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pedro Fernandez",
+      "fecha": "21 OCT",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 35000,
+      "asientos": 1400,
+      "url": "https://ticketplus.cl/events/pedro-fernandez",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alvaro Torres - Tour del Amor 2023 - Arica",
+      "fecha": "20 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 185000,
+      "asientos": 800,
+      "url": "https://ticketplus.cl/events/alvaro-torres-tour-del-amor-2023-arica",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "SANTIAGO MOTORIZADO",
+      "fecha": "01 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 145000,
+      "asientos": 2350,
+      "url": "https://ticketplus.cl/events/santiago-motorizado",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "José Andrea (Mago de Oz) en Puerto Montt 2023",
+      "fecha": "02 SEP",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 65000,
+      "asientos": 3750,
+      "url": "https://ticketplus.cl/events/jose-andrea-mago-de-oz-en-puerto-montt-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "José Andrea (Mago de Oz) en Temuco 2023",
+      "fecha": "03 SEP",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 145000,
+      "asientos": 1900,
+      "url": "https://ticketplus.cl/events/jose-andrea-mago-de-oz-en-temuco-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Los Jaivas 60 años - Teatro Biobío",
+      "fecha": "15 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 130000,
+      "asientos": 4450,
+      "url": "https://ticketplus.cl/events/los-jaivas-60-anos-teatro-biobio",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "GOD SAVE THE QUEEN",
+      "fecha": "26 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 25000,
+      "asientos": 1750,
+      "url": "https://ticketplus.cl/events/god-save-the-queen",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Orquesta de Cámara Ciudadana de Concepción presenta: Concierto N° 1: Historia del Rock Chileno",
+      "fecha": "14 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 75000,
+      "asientos": 2550,
+      "url": "https://ticketplus.cl/events/orquesta-de-camara-ciudadana-de-concepcion-presenta-concierto-n-1-historia-del-rock-chileno",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "ALVARO TORRES - ENJOY VIÑA DEL MAR",
+      "fecha": "21 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 185000,
+      "asientos": 3250,
+      "url": "https://ticketplus.cl/events/alvaro-torres-enjoy-vina-del-mar",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alvaro Torres - Tour del Amor 2023 - Iquique",
+      "fecha": "19 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 150000,
+      "asientos": 2900,
+      "url": "https://ticketplus.cl/events/alvaro-torres-tour-del-amor-2023-iquique",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Christina y Los Subterraneos - Teatro Biobío",
+      "fecha": "21 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 165000,
+      "asientos": 400,
+      "url": "https://ticketplus.cl/events/christina-y-los-subterraneos-teatro-biobio",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Gipsy Kings by André Reyes",
+      "fecha": "04 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 60000,
+      "asientos": 1100,
+      "url": "https://ticketplus.cl/events/gipsy-kings-by-andre-reyes",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Magma - Concepción",
+      "fecha": "01 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 115000,
+      "asientos": 1350,
+      "url": "https://ticketplus.cl/events/magma-concepcion",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alain Johannes",
+      "fecha": "30 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 40000,
+      "asientos": 650,
+      "url": "https://ticketplus.cl/events/alain-johannes",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "LOS JAIVAS 60 años en enjoy Coquimbo",
+      "fecha": "03 JUN",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 55000,
+      "asientos": 2700,
+      "url": "https://ticketplus.cl/events/los-jaivas-enjoy-coquimbo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Congreso",
+      "fecha": "31 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 185000,
+      "asientos": 1600,
+      "url": "https://ticketplus.cl/events/congreso",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Bombo Fica \"El show debe continuar\" - Enjoy Santiago 2023",
+      "fecha": "24 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 120000,
+      "asientos": 1550,
+      "url": "https://ticketplus.cl/events/bombo-fica-el-show-debe-continuar-en-enjoy-santiago-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Fear Factory - The Machine Will Rise Tour 2023",
+      "fecha": "10 JUN",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 105000,
+      "asientos": 850,
+      "url": "https://ticketplus.cl/events/fear-factory-the-machine-will-rise-tour-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Concierto Gustavo Miranda & Orquesta de Cámara del Municipal de Santiago",
+      "fecha": "24 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 30000,
+      "asientos": 2050,
+      "url": "https://ticketplus.cl/events/gustavo-miranda",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Muerdo",
+      "fecha": "27 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 30000,
+      "asientos": 1900,
+      "url": "https://ticketplus.cl/events/muerdo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Cantáreman: Concierto solidario",
+      "fecha": "15 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 35000,
+      "asientos": 3850,
+      "url": "https://ticketplus.cl/events/cantareman-concierto-solidario",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "LEROCK FEST 2023",
+      "fecha": "06 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 105000,
+      "asientos": 350,
+      "url": "https://ticketplus.cl/events/lerock-fest-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Noche de Brujas en El Patagual de Olmué",
+      "fecha": "15 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 85000,
+      "asientos": 650,
+      "url": "https://ticketplus.cl/events/noche-de-brujas-en-el-patagual-de-olmue",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jesucristo SuperStar/ Teatro Municipal de Valparaiso 06 de Abril",
+      "fecha": "06 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 155000,
+      "asientos": 2250,
+      "url": "https://ticketplus.cl/events/jesucristo-superstar-teatro-municipal-de-valparaiso",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Dulce y Agraz - Lanzamiento Albor",
+      "fecha": "18 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 125000,
+      "asientos": 4800,
+      "url": "https://ticketplus.cl/events/dulce-y-agraz",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Luis Slimming Presenta: como venía diciendo... / Lota 22 de Abril",
+      "fecha": "22 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 90000,
+      "asientos": 3600,
+      "url": "https://ticketplus.cl/events/luis-slimming-teatro-lota-22-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Misa Santiago - [SASHA] - Celebracion 100K Seguidores @Domingo 02 de Abril",
+      "fecha": "02 ABR al 03 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 130000,
+      "asientos": 200,
+      "url": "https://ticketplus.cl/events/misa-santiago-sasha",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Luis Slimming Presenta: Humor de Casino / Talcahuano 20 de Abril",
+      "fecha": "20 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 30000,
+      "asientos": 1350,
+      "url": "https://ticketplus.cl/events/luis-sliming-presenta-humor-de-casino-talcahuano-20-de-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Manglar Genesis - 25 de Marzo - Sala 68",
+      "fecha": "25 MAR al 26 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 20000,
+      "asientos": 4150,
+      "url": "https://ticketplus.cl/events/manglar-genesis-25-de-marzo-sala-68",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Luis Slimming Presenta: Humor de Casino / Chillán 21 de Abril",
+      "fecha": "21 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 140000,
+      "asientos": 4550,
+      "url": "https://ticketplus.cl/events/luis-slimming-chillan-21-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "DULCE Y AGRAZ",
+      "fecha": "07 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 30000,
+      "asientos": 950,
+      "url": "https://ticketplus.cl/events/dulce-y-agraz-2023-05-07-20-00-00-0400",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "LOS JAIVAS 60 años en Enjoy Chiloé",
+      "fecha": "17 JUN",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 180000,
+      "asientos": 1650,
+      "url": "https://ticketplus.cl/events/los-jaivas-enjoy-chiloe",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "CLUB ROSA- ITHAN NEW YORK EN VIVO - 24 DE MARZO",
+      "fecha": "24 MAR al 25 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 55000,
+      "asientos": 4700,
+      "url": "https://ticketplus.cl/events/aniversario-club-rosa-jc-reyes-en-vivo-25-de-febrero",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up \"Soy el único que no me conozco\" - Osorno",
+      "fecha": "25 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 140000,
+      "asientos": 4100,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco-osorno",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Experiencia Pachakuty",
+      "fecha": "25 MAR al 26 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 165000,
+      "asientos": 800,
+      "url": "https://ticketplus.cl/events/experiencia-pachakuty",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Tributo a Los enanitos verdes y G.I.T. (17 de mar)",
+      "fecha": "17 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 75000,
+      "asientos": 1650,
+      "url": "https://ticketplus.cl/events/tributo-a-los-enanitos-verdes-y-g-i-t-17-de-mar",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Iván Arenas ¨El Profesor Rossa¨ en Terra Viva (25 de Marzo)",
+      "fecha": "25 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 100000,
+      "asientos": 1050,
+      "url": "https://ticketplus.cl/events/ivan-arenas-el-profesor-rossa-en-terra-viva-25-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up \"Soy el único que no me conozco\" - Valdivia",
+      "fecha": "23 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 180000,
+      "asientos": 1600,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco-valdivia",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "MISA Santiago - Shai T @Domingo 26 de Marzo",
+      "fecha": "26 MAR al 27 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 55000,
+      "asientos": 2950,
+      "url": "https://ticketplus.cl/events/misa-santiago-shai-t-domingo-26-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up “Soy el Único que no me conozco”",
+      "fecha": "24 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 80000,
+      "asientos": 4400,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Fernando Ubiergo en Terra Viva!!",
+      "fecha": "08 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 65000,
+      "asientos": 550,
+      "url": "https://ticketplus.cl/events/fernando-ubiergo-en-terra-viva",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Misa Santiago - [Femme] @ Domingo 19 de Marzo",
+      "fecha": "19 MAR al 20 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 125000,
+      "asientos": 1350,
+      "url": "https://ticketplus.cl/events/misa-santiago-femme-domingo-19-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Tributo Marc Anthony + Fiesta 80'90'2000's",
+      "fecha": "01 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 175000,
+      "asientos": 3550,
+      "url": "https://ticketplus.cl/events/tributo-marc-anthony-fiesta-80-90-2000-s",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Concierto Camerata UANDES & Francisco Rettig",
+      "fecha": "04 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 145000,
+      "asientos": 1950,
+      "url": "https://ticketplus.cl/events/franciscorettig",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Sol y LLuvia en Terra Viva (7 de abril)",
+      "fecha": "07 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 170000,
+      "asientos": 1650,
+      "url": "https://ticketplus.cl/events/sol-y-lluvia-en-terra-viva-7-de-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "POBRES DIABLOS - QUINTERO",
+      "fecha": "24 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 40000,
+      "asientos": 2450,
+      "url": "https://ticketplus.cl/events/pobres-diablos-quintero",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Misa V Region - Matias Sundblad @Domingo 19 de Marzo",
+      "fecha": "19 MAR al 20 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 30000,
+      "asientos": 4350,
+      "url": "https://ticketplus.cl/events/misa-v-region-matias-sundblad-domingo-19-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "FIRE FEST",
+      "fecha": "01 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 115000,
+      "asientos": 3500,
+      "url": "https://ticketplus.cl/events/fire-fest",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Tributo Marc Anthony + Fiesta 80'90'2000's",
+      "fecha": "01 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 80000,
+      "asientos": 3950,
+      "url": "https://ticketplus.cl/events/tributo-marc-anthony-fiesta-80-90-2000-s",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Noche de Brujas en El Patagual de Olmué",
+      "fecha": "15 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 75000,
+      "asientos": 2050,
+      "url": "https://ticketplus.cl/events/noche-de-brujas-en-el-patagual-de-olmue",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Gipsy Kings by André Reyes",
+      "fecha": "04 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 30000,
+      "asientos": 4550,
+      "url": "https://ticketplus.cl/events/gipsy-kings-by-andre-reyes",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Florida Bier - Festival / Club Hípico / 06 de Mayo",
+      "fecha": "06 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 130000,
+      "asientos": 600,
+      "url": "https://ticketplus.cl/events/florida-bier-festival-club-hipico-06-de-mayo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "José Andrea (Mago de Oz) en Puerto Montt 2023",
+      "fecha": "02 SEP\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 165000,
+      "asientos": 2850,
+      "url": "https://ticketplus.cl/events/jose-andrea-mago-de-oz-en-puerto-montt-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pedro Fernandez",
+      "fecha": "21 OCT\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 135000,
+      "asientos": 650,
+      "url": "https://ticketplus.cl/events/pedro-fernandez",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Experiencia Pachakuty",
+      "fecha": "25 MAR al 26 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 70000,
+      "asientos": 3900,
+      "url": "https://ticketplus.cl/events/experiencia-pachakuty",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Forget Pailita Los Ángeles",
+      "fecha": "02 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 180000,
+      "asientos": 350,
+      "url": "https://ticketplus.cl/events/forget-pailita-los-angeles",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "José Andrea (Mago de Oz) en Temuco 2023",
+      "fecha": "03 SEP\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 185000,
+      "asientos": 2400,
+      "url": "https://ticketplus.cl/events/jose-andrea-mago-de-oz-en-temuco-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jesucristo SuperStar/ Enjoy Coquimbo",
+      "fecha": "08 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 100000,
+      "asientos": 1500,
+      "url": "https://ticketplus.cl/events/jesucristo-super-star-enjoy-coquimbo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Poderoso Circo Rolex Antofagasta 2023",
+      "fecha": "03 MAR al 26 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 160000,
+      "asientos": 2800,
+      "url": "https://ticketplus.cl/events/poderoso-circo-rolex-antofagasta-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Circo Las Estrellas Voladoras Vicuña 2023",
+      "fecha": "17 MAR al 26 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 180000,
+      "asientos": 2400,
+      "url": "https://ticketplus.cl/events/circo-las-estrellas-voladoras-vicuna-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up \"Soy el único que no me conozco\" - Valdivia",
+      "fecha": "23 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 110000,
+      "asientos": 900,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco-valdivia",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up “Soy el Único que no me conozco”",
+      "fecha": "24 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 180000,
+      "asientos": 50,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up \"Soy el único que no me conozco\" - Osorno",
+      "fecha": "25 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 45000,
+      "asientos": 250,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco-osorno",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Parque San Alberto Hurtado",
+      "fecha": "07 FEB",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 55000,
+      "asientos": 4800,
+      "url": "https://ticketplus.cl/events/parque-san-alberto-hurtado",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Feucpalooza: Concha Acústica + Buinazo",
+      "fecha": "14 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 170000,
+      "asientos": 1600,
+      "url": "https://ticketplus.cl/events/Feucpalooza2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "MYRIAM HERNÁNDEZ TOUR 2023, MI PARAISO",
+      "fecha": "16 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 80000,
+      "asientos": 2150,
+      "url": "https://ticketplus.cl/events/myriam-hernandez-tour-2023-mi-paraiso",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Orquesta Sinfónica: Concierto Inaugural",
+      "fecha": "17 MAR al 18 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 20000,
+      "asientos": 2200,
+      "url": "https://ticketplus.cl/events/orquesta-sinfonica-concierto-inaugural",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Tributo a Los enanitos verdes y G.I.T. (17 de mar)",
+      "fecha": "\n17 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 65000,
+      "asientos": 900,
+      "url": "https://ticketplus.cl/events/tributo-a-los-enanitos-verdes-y-g-i-t-17-de-mar",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Misa Santiago - [Femme] @ Domingo 19 de Marzo",
+      "fecha": "19 MAR al 20 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 95000,
+      "asientos": 3650,
+      "url": "https://ticketplus.cl/events/misa-santiago-femme-domingo-19-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Misa V Region - Matias Sundblad @Domingo 19 de Marzo",
+      "fecha": "19 MAR al 20 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 95000,
+      "asientos": 4050,
+      "url": "https://ticketplus.cl/events/misa-v-region-matias-sundblad-domingo-19-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Orquesta Sinfónica: Gershwin-Flores-Soro-Márquez",
+      "fecha": "24 MAR al 25 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 190000,
+      "asientos": 2550,
+      "url": "https://ticketplus.cl/events/orquesta-sinfonica-gershwin-flores-soro-marquez",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Chao Vacaciones Festival Urbano",
+      "fecha": "25 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 100000,
+      "asientos": 2500,
+      "url": "https://ticketplus.cl/events/chao-vacaciones",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "MISA Santiago - Shai T @Domingo 26 de Marzo",
+      "fecha": "26 MAR al 27 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 90000,
+      "asientos": 2650,
+      "url": "https://ticketplus.cl/events/misa-santiago-shai-t-domingo-26-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Orquesta Sinfónica: Concierto Semana Santa",
+      "fecha": "31 MAR al 06 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 190000,
+      "asientos": 4650,
+      "url": "https://ticketplus.cl/events/orquesta-sinfonica-concierto-semana-santa",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Demian Rodríguez en Concierto",
+      "fecha": "31 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 195000,
+      "asientos": 2450,
+      "url": "https://ticketplus.cl/events/demian-rodriguez-en-concierto",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "FIRE FEST",
+      "fecha": "01 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 110000,
+      "asientos": 1550,
+      "url": "https://ticketplus.cl/events/fire-fest",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Tributo Marc Anthony + Fiesta 80'90'2000's",
+      "fecha": "01 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 140000,
+      "asientos": 2200,
+      "url": "https://ticketplus.cl/events/tributo-marc-anthony-fiesta-80-90-2000-s",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "SANTIAGO MOTORIZADO",
+      "fecha": "01 ABR\n\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 185000,
+      "asientos": 4900,
+      "url": "https://ticketplus.cl/events/santiago-motorizado",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Misa Santiago - [SASHA] - Celebracion 100K Seguidores @Domingo 02 de Abril",
+      "fecha": "02 ABR al 03 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 150000,
+      "asientos": 2250,
+      "url": "https://ticketplus.cl/events/misa-santiago-sasha",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Fernando Ubiergo en Terra Viva!!",
+      "fecha": "08 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 165000,
+      "asientos": 1550,
+      "url": "https://ticketplus.cl/events/fernando-ubiergo-en-terra-viva",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Marisela en Concepción",
+      "fecha": "13 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 45000,
+      "asientos": 3900,
+      "url": "https://ticketplus.cl/events/marisela-en-concepcion",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Noche de Brujas en El Patagual de Olmué",
+      "fecha": "15 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 120000,
+      "asientos": 4700,
+      "url": "https://ticketplus.cl/events/noche-de-brujas-en-el-patagual-de-olmue",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Dulce y Agraz - Lanzamiento Albor",
+      "fecha": "18 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 160000,
+      "asientos": 1450,
+      "url": "https://ticketplus.cl/events/dulce-y-agraz",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Gipsy Kings by André Reyes",
+      "fecha": "04 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 50000,
+      "asientos": 800,
+      "url": "https://ticketplus.cl/events/gipsy-kings-by-andre-reyes",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Florida Bier - Festival / Club Hípico / 06 de Mayo",
+      "fecha": "06 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 175000,
+      "asientos": 1350,
+      "url": "https://ticketplus.cl/events/florida-bier-festival-club-hipico-06-de-mayo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "JOSIMAR - Salsa perucha",
+      "fecha": "06 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 165000,
+      "asientos": 2150,
+      "url": "https://ticketplus.cl/events/josimar-salsa-perucha",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alvaro Torres - Tour del Amor 2023 - Arica",
+      "fecha": "20 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 155000,
+      "asientos": 4750,
+      "url": "https://ticketplus.cl/events/alvaro-torres-tour-del-amor-2023-arica",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "ALVARO TORRES - ENJOY VIÑA DEL MAR",
+      "fecha": "21 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 35000,
+      "asientos": 3450,
+      "url": "https://ticketplus.cl/events/alvaro-torres-enjoy-vina-del-mar",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Fear Factory - The Machine Will Rise Tour 2023",
+      "fecha": "10 JUN\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 5000,
+      "asientos": 450,
+      "url": "https://ticketplus.cl/events/fear-factory-the-machine-will-rise-tour-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "José Andrea (Mago de Oz) en Puerto Montt 2023",
+      "fecha": "02 SEP\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 50000,
+      "asientos": 600,
+      "url": "https://ticketplus.cl/events/jose-andrea-mago-de-oz-en-puerto-montt-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Pedro Fernandez",
+      "fecha": "21 OCT\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 60000,
+      "asientos": 2550,
+      "url": "https://ticketplus.cl/events/pedro-fernandez",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "POBRES DIABLOS - QUINTERO ",
+      "fecha": "24 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 150000,
+      "asientos": 4700,
+      "url": "https://ticketplus.cl/events/pobres-diablos-quintero",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": " CLUB ROSA- ITHAN NEW YORK EN VIVO - 24 DE MARZO",
+      "fecha": "24 MAR al 25 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 40000,
+      "asientos": 100,
+      "url": "https://ticketplus.cl/events/aniversario-club-rosa-jc-reyes-en-vivo-25-de-febrero",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Experiencia Pachakuty",
+      "fecha": "25 MAR al 26 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 80000,
+      "asientos": 3000,
+      "url": "https://ticketplus.cl/events/experiencia-pachakuty",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Forget Pailita Los Ángeles",
+      "fecha": "02 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 190000,
+      "asientos": 3150,
+      "url": "https://ticketplus.cl/events/forget-pailita-los-angeles",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "\"El triángulo de la tristeza\"",
+      "fecha": "25 FEB al 01 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 50000,
+      "asientos": 2100,
+      "url": "https://ticketplus.cl/events/triangulo-de-la-tristeza-salakumayor",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "\"Tár\" de Todd Field",
+      "fecha": "04 MAR al 01 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 115000,
+      "asientos": 2400,
+      "url": "https://ticketplus.cl/events/TAR-salaumayor",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "\"Close\" de Lukas Dhont",
+      "fecha": "08 MAR al 22 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 10000,
+      "asientos": 1400,
+      "url": "https://ticketplus.cl/events/Close-salaumayor",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Manglar Genesis - 25 de Marzo - Sala 68",
+      "fecha": "25 MAR al 26 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 70000,
+      "asientos": 4750,
+      "url": "https://ticketplus.cl/events/manglar-genesis-25-de-marzo-sala-68",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Gemelos- Teatrocinema",
+      "fecha": "01 ABR al 16 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 165000,
+      "asientos": 4850,
+      "url": "https://ticketplus.cl/events/gemelos",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Sin Sangre- Teatrocinema",
+      "fecha": "20 ABR al 23 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 80000,
+      "asientos": 4150,
+      "url": "https://ticketplus.cl/events/sinsangre",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Historia de Amor- Teatrocinema",
+      "fecha": "27 ABR al 30 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 135000,
+      "asientos": 950,
+      "url": "https://ticketplus.cl/events/historiadeamor",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "La Contadora de Películas- Teatrocinema",
+      "fecha": "03 MAY al 06 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 150000,
+      "asientos": 3100,
+      "url": "https://ticketplus.cl/events/lacontadoradepeliculas",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "El Sueño de Mó- Teatrocinema",
+      "fecha": "10 MAY al 14 MAY",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 45000,
+      "asientos": 3550,
+      "url": "https://ticketplus.cl/events/elsuenodemo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Orquesta de Cámara Ciudadana de Concepción presenta: Concierto N° 1: Historia del Rock Chileno",
+      "fecha": "14 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 175000,
+      "asientos": 1500,
+      "url": "https://ticketplus.cl/events/orquesta-de-camara-ciudadana-de-concepcion-presenta-concierto-n-1-historia-del-rock-chileno",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Cantáreman: Concierto solidario",
+      "fecha": "15 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 170000,
+      "asientos": 1700,
+      "url": "https://ticketplus.cl/events/cantareman-concierto-solidario",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Concierto Gustavo Miranda & Orquesta de Cámara del Municipal de Santiago",
+      "fecha": "24 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 190000,
+      "asientos": 3150,
+      "url": "https://ticketplus.cl/events/gustavo-miranda",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alain Johannes",
+      "fecha": "30 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 45000,
+      "asientos": 1050,
+      "url": "https://ticketplus.cl/events/alain-johannes",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Congreso",
+      "fecha": "31 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 55000,
+      "asientos": 3650,
+      "url": "https://ticketplus.cl/events/congreso",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Sol y LLuvia en Terra Viva (7 de abril)",
+      "fecha": "07 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 170000,
+      "asientos": 1300,
+      "url": "https://ticketplus.cl/events/sol-y-lluvia-en-terra-viva-7-de-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Joss Stone - \"20 Years of Soul\" - Teatro Biobío",
+      "fecha": "13 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 110000,
+      "asientos": 600,
+      "url": "https://ticketplus.cl/events/joss-stone-20-years-of-soul-teatro-biobio",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Caja Negra Tributo a Pearl Jam",
+      "fecha": "14 ABR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 120000,
+      "asientos": 1900,
+      "url": "https://ticketplus.cl/events/caja-negra-tributo-a-pearl-jam",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Los Jaivas 60 años - Teatro Biobío",
+      "fecha": "15 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 135000,
+      "asientos": 4150,
+      "url": "https://ticketplus.cl/events/los-jaivas-60-anos-teatro-biobio",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Christina y Los Subterraneos - Teatro Biobío",
+      "fecha": "21 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 65000,
+      "asientos": 4200,
+      "url": "https://ticketplus.cl/events/christina-y-los-subterraneos-teatro-biobio",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "GOD SAVE THE QUEEN",
+      "fecha": "26 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 5000,
+      "asientos": 4650,
+      "url": "https://ticketplus.cl/events/god-save-the-queen",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Muerdo ",
+      "fecha": "27 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 105000,
+      "asientos": 1150,
+      "url": "https://ticketplus.cl/events/muerdo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Magma - Concepción",
+      "fecha": "01 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 190000,
+      "asientos": 4550,
+      "url": "https://ticketplus.cl/events/magma-concepcion",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Concierto Camerata UANDES & Francisco Rettig",
+      "fecha": "04 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 15000,
+      "asientos": 500,
+      "url": "https://ticketplus.cl/events/franciscorettig",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "LEROCK FEST 2023",
+      "fecha": "06 MAY\n ",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 45000,
+      "asientos": 3700,
+      "url": "https://ticketplus.cl/events/lerock-fest-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "DULCE Y AGRAZ",
+      "fecha": "07 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 100000,
+      "asientos": 550,
+      "url": "https://ticketplus.cl/events/dulce-y-agraz-2023-05-07-20-00-00-0400",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Alvaro Torres - Tour del Amor 2023 - Iquique",
+      "fecha": "19 MAY\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 190000,
+      "asientos": 1200,
+      "url": "https://ticketplus.cl/events/alvaro-torres-tour-del-amor-2023-iquique",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "LOS JAIVAS 60 años en enjoy Coquimbo",
+      "fecha": "03 JUN\n\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 15000,
+      "asientos": 4750,
+      "url": "https://ticketplus.cl/events/los-jaivas-enjoy-coquimbo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "LOS JAIVAS 60 años en Enjoy Chiloé",
+      "fecha": "17 JUN\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 45000,
+      "asientos": 2650,
+      "url": "https://ticketplus.cl/events/los-jaivas-enjoy-chiloe",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "José Andrea (Mago de Oz) en Temuco 2023",
+      "fecha": "03 SEP\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 120000,
+      "asientos": 4550,
+      "url": "https://ticketplus.cl/events/jose-andrea-mago-de-oz-en-temuco-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jesucristo SuperStar/ Teatro Municipal de Valparaiso 06 de Abril",
+      "fecha": "06 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 135000,
+      "asientos": 1400,
+      "url": "https://ticketplus.cl/events/jesucristo-superstar-teatro-municipal-de-valparaiso",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Jesucristo SuperStar/ Enjoy Coquimbo",
+      "fecha": "08 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 40000,
+      "asientos": 4000,
+      "url": "https://ticketplus.cl/events/jesucristo-super-star-enjoy-coquimbo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Poderoso Circo Rolex Antofagasta 2023",
+      "fecha": "03 MAR al 26 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 150000,
+      "asientos": 3600,
+      "url": "https://ticketplus.cl/events/poderoso-circo-rolex-antofagasta-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Circo Las Estrellas Voladoras Vicuña 2023",
+      "fecha": "17 MAR al 26 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 120000,
+      "asientos": 650,
+      "url": "https://ticketplus.cl/events/circo-las-estrellas-voladoras-vicuna-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up \"Soy el único que no me conozco\" - Valdivia",
+      "fecha": "23 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 80000,
+      "asientos": 4650,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco-valdivia",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up “Soy el Único que no me conozco”",
+      "fecha": "24 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 140000,
+      "asientos": 1450,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Bombo Fica \"El show debe continuar\" - Enjoy Santiago 2023",
+      "fecha": "24 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 35000,
+      "asientos": 650,
+      "url": "https://ticketplus.cl/events/bombo-fica-el-show-debe-continuar-en-enjoy-santiago-2023",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Iván Arenas ¨El Profesor Rossa¨ en Terra Viva (25 de Marzo)",
+      "fecha": "25 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 75000,
+      "asientos": 1300,
+      "url": "https://ticketplus.cl/events/ivan-arenas-el-profesor-rossa-en-terra-viva-25-de-marzo",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Felipe Izquierdo Stand Up \"Soy el único que no me conozco\" - Osorno",
+      "fecha": "25 MAR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 190000,
+      "asientos": 200,
+      "url": "https://ticketplus.cl/events/felipe-izquierdo-stand-up-soy-el-unico-que-no-me-conozco-osorno",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Luis Slimming Presenta: Humor de Casino / Talcahuano 20 de Abril",
+      "fecha": "20 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 120000,
+      "asientos": 1450,
+      "url": "https://ticketplus.cl/events/luis-sliming-presenta-humor-de-casino-talcahuano-20-de-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Luis Slimming Presenta: Humor de Casino / Chillán 21 de Abril",
+      "fecha": "21 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 185000,
+      "asientos": 3550,
+      "url": "https://ticketplus.cl/events/luis-slimming-chillan-21-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Luis Slimming Presenta: como venía diciendo... / Lota 22 de Abril",
+      "fecha": "22 ABR\n",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 125000,
+      "asientos": 1500,
+      "url": "https://ticketplus.cl/events/luis-slimming-teatro-lota-22-abril",
+      "descripcion": "No disponible"
+    },
+    {
+      "nombre": "Mega Experiencia",
+      "fecha": "12 DIC al 31 MAR",
+      "lugar": "No disponible",
+      "img": "No disponible",
+      "precio": 50000,
+      "asientos": 1850,
+      "url": "https://ticketplus.cl/events/MegaExperiencia",
+      "descripcion": "No disponible"
+    }
+  ],
+  "ticketmaster": [
+    {
+      "nombre": "Chile Padel Open - World Padel Tour (WPT)",
+      "fecha": "13 al 19 de Marzo de 2023",
+      "lugar": "Complejo San Carlos de Apoquindo, del Club Deportivo Universidad Católica",
+      "img": "https://cdn.getcrowder.com/images/676406fd-df95-40db-9662-ab9cb4012f06-1920x720---ticketmaster-banner.jpg?w=1140",
+      "precio": 125000,
+      "asientos": 4000,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/world-padel-tour-2023"
+    },
+    {
+      "nombre": "Teatro Mori",
+      "fecha": "Cartelera 2023",
+      "lugar": "Parque Arauco, Bellavista, Vitacura y Recoleta",
+      "img": "https://cdn.getcrowder.com/images/0bcb311d-9b02-4438-9807-7aab9e62d423-sin-titulo-1.jpg?w=1140",
+      "precio": 100000,
+      "asientos": 200,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/salas-teatro-mori"
+    },
+    {
+      "nombre": "Lantern Festival",
+      "fecha": "23 de Diciembre 2022 al 26 de Marzo 2023",
+      "lugar": "Parque de la Familia",
+      "img": "https://cdn.getcrowder.com/images/53af45b5-a7d8-443a-8e2c-7455bd0012e7-1669844004827-null-lantern1.jpg?w=1140",
+      "precio": 90000,
+      "asientos": 400,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/lantern-festival"
+    },
+    {
+      "nombre": "Paloma San Basilio \"Te lo digo con música\"",
+      "fecha": "17 y 18 de Marzo de 2023",
+      "lugar": "Santiago y Viña del Mar",
+      "img": "https://cdn.getcrowder.com/images/f79085c8-3379-41d3-9eda-3792095e32d2-1674161949722-null-paloma1.jpg?w=640",
+      "precio": 5000,
+      "asientos": 400,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/paloma-san-basilio-te-lo-digo-con-musica-home"
+    },
+    {
+      "nombre": "Super Stereo FM",
+      "fecha": "25 de Marzo de 2023",
+      "lugar": "Basel Venue",
+      "img": "https://cdn.getcrowder.com/images/d4659a00-9d86-4b78-a0c5-d349140fc36d-76eca9fc-9eda-493e-b7b4-035d021a4b8f-horizontaltm-1920x720-web1.jpg?w=1140",
+      "precio": 5000,
+      "asientos": 1400,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/super-stereo-fm"
+    },
+    {
+      "nombre": "Macaco \"Vuélame el Corazón\"",
+      "fecha": "1 de Abril de 2023",
+      "lugar": "Club Amanda",
+      "img": "https://cdn.getcrowder.com/images/c8fa1d07-2ccb-4e36-87b8-b538a0a11d12-1673981455808-null-mac2.jpeg?w=640",
+      "precio": 170000,
+      "asientos": 500,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/macaco-vuelame-el-corazon"
+    },
+    {
+      "nombre": "The Brian Jonestown Massacre",
+      "fecha": "16 de Abril de 2023",
+      "lugar": "Basel Venue",
+      "img": "https://cdn.getcrowder.com/images/4e0353f3-9863-47d5-af59-4f2176c19603-brianlanding-limpio.jpg?w=1140",
+      "precio": 165000,
+      "asientos": 4450,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/the-brian-jonestown-massacre-basel"
+    },
+    {
+      "nombre": "Ismael Serrano - Guitarra y Voz",
+      "fecha": "16 de Abril de 2023",
+      "lugar": "Teatro Universidad de Concepción",
+      "img": "https://cdn.getcrowder.com/images/bd9cdece-1e54-41f8-b0c7-1ee9c624b157-ismael-1920x720.jpg?w=640",
+      "precio": 175000,
+      "asientos": 4550,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/ismael-serrano-guitarra-y-voz"
+    },
+    {
+      "nombre": "Midnight Mafia - City of Angels",
+      "fecha": "22 de Abril de 2023",
+      "lugar": "Espacio Riesco",
+      "img": "https://cdn.getcrowder.com/images/5fe89334-f940-4087-8eb4-fc8e597e16b1-1669388003206-null-mid1.jpg?w=1140",
+      "precio": 15000,
+      "asientos": 4650,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/midnight-mafia---city-of-angels"
+    },
+    {
+      "nombre": "Alejandro Sanz - Sanz en Vivo",
+      "fecha": "29 de Abril de 2023",
+      "lugar": "Gran Arena Monticello",
+      "img": "https://cdn.getcrowder.com/images/37c9823e-d594-4f4d-b2e3-14495d097360-1673359556994-null-sanz1.jpg?w=1140",
+      "precio": 150000,
+      "asientos": 3550,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/alejandro-sanz-monticello-2023"
+    },
+    {
+      "nombre": "Dionne Warwick - She´s Back: One Last Time",
+      "fecha": "14 de Mayo de 2023",
+      "lugar": "Centro de Eventos Metropolitan",
+      "img": "https://cdn.getcrowder.com/images/fcc31d61-887a-4288-8248-347fa7446624-dionne-editable-feedlimpio.jpg?w=640",
+      "precio": 120000,
+      "asientos": 4050,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/dionne-warwick---shes-back-one-last-time-metropolitan"
+    },
+    {
+      "nombre": "The Weeknd - After Hours Til Dawn Global Stadium Tour",
+      "fecha": "15 y 16 de Octubre de 2023",
+      "lugar": "Estadio Bicentenario La Florida",
+      "img": "https://cdn.getcrowder.com/images/65daebd2-8f84-47eb-84e2-9fba611b9ae4-1669646051830-null-weekend1.jpg?w=1140",
+      "precio": 60000,
+      "asientos": 4600,
+      "descripcion": "",
+      "url": "https://www.ticketmaster.cl/event/the-weeknd-2023"
+    }
+  ]
+}
