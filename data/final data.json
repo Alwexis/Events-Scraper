@@ -1,6 +1,24 @@
 {
   "puntoticket": [
     {
+      "nombre": "JOSÉ MADERO Giallo FantastiqueTour II",
+      "fecha": "23 de noviembre de 2023",
+      "fechaMilisegundos": 1700708400000,
+      "lugar": "Teatro Coliseo - Santiago",
+      "img": "https://static.puntoticket.com/images/eventos/seo027_re_banner.jpg",
+      "precio": 35000,
+      "asientos": {
+        "total": 1000,
+        "vip": 80,
+        "cancha": 220,
+        "galeriaLateral": 350,
+        "galeriaCentral": 350
+      },
+      "url": "https://www.puntoticket.com/evento/jose-madero-giallo-fantastiquetour-ii-teatro-coliseo-abr-2023",
+      "descripcion": "El mexicano regresa a nuestro país con la gira Giallo Fantastique Tour II, para darnos\nun concierto emocionante; acompañado de todos los nuevos temas del disco Giallo,\nlanzado en 2022 ¡No te lo pierdas!",
+      "id": 3820
+    },
+    {
       "nombre": "Lollapalooza Chile 2023",
       "fecha": "7 de agosto de 2025",
       "fechaMilisegundos": 1754611000863,
